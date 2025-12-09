@@ -20,7 +20,7 @@ icon: lucide/rocket
 
 ### 警告框
 
-> 前往[文档](https://zensical.org/docs/authoring/admonitions/)
+> 可参考[文档](https://zensical.org/docs/authoring/admonitions/)
 
 !!! note
 
@@ -32,7 +32,7 @@ icon: lucide/rocket
 
 ### 详情
 
-> 前往[文档](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+> 可参考[文档](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
 
 ??? info "点击展开查看更多信息"
     
@@ -41,7 +41,7 @@ icon: lucide/rocket
 
 ## 代码块
 
-> 前往[文档](https://zensical.org/docs/authoring/code-blocks/)
+> 可参考[文档](https://zensical.org/docs/authoring/code-blocks/)
 
 ``` python hl_lines="2" title="代码块"
 def greet(name):
@@ -50,7 +50,7 @@ def greet(name):
 greet("Python")
 ```
 
-1.  > 前往[文档](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
+1.  > 可参考[文档](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
 
     代码注释允许将注释附加到代码行。
 
@@ -58,7 +58,7 @@ greet("Python")
 
 ## 内容选项卡
 
-> 前往[文档](https://zensical.org/docs/authoring/content-tabs/)
+> 可参考[文档](https://zensical.org/docs/authoring/content-tabs/)
 
 === "Python"
 
@@ -74,7 +74,7 @@ greet("Python")
 
 ## 图表
 
-> 前往[文档](https://zensical.org/docs/authoring/diagrams/)
+> 可参考[文档](https://zensical.org/docs/authoring/diagrams/)
 
 ``` mermaid
 graph LR
@@ -87,7 +87,7 @@ graph LR
 
 ## 脚注
 
-> 前往[文档](https://zensical.org/docs/authoring/footnotes/)
+> 可参考[文档](https://zensical.org/docs/authoring/footnotes/)
 
 这是一个带有脚注的句子。[^1]
 
@@ -98,7 +98,7 @@ graph LR
 
 ## 格式化
 
-> 前往[文档](https://zensical.org/docs/authoring/formatting/)
+> 可参考[文档](https://zensical.org/docs/authoring/formatting/)
 
 - ==这段文字被标记（高亮）了==
 - ^^这段文字被插入（下划线）了^^
@@ -109,7 +109,7 @@ graph LR
 
 ## 图标、表情符号
 
-> 前往[文档](https://zensical.org/docs/authoring/icons-emojis/)
+> 可参考[文档](https://zensical.org/docs/authoring/icons-emojis/)
 
 * :sparkles: `:sparkles:`
 * :rocket: `:rocket:`
@@ -119,7 +119,7 @@ graph LR
 
 ## 数学公式
 
-> 前往[文档](https://zensical.org/docs/authoring/math/)
+> 可参考[文档](https://zensical.org/docs/authoring/math/)
 
 $$
 \cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
@@ -146,7 +146,7 @@ $$
 
 ## 任务列表
 
-> 前往[文档](https://zensical.org/docs/authoring/lists/#using-task-lists)
+> 可参考[文档](https://zensical.org/docs/authoring/lists/#using-task-lists)
 
 * [x] 安装 Zensical
 * [x] 配置 `zensical.toml`
@@ -155,7 +155,7 @@ $$
 
 ## 工具提示
 
-> 前往[文档](https://zensical.org/docs/authoring/tooltips/)
+> 可参考[文档](https://zensical.org/docs/authoring/tooltips/)
 
 [将鼠标悬停在我身上][example]
 
