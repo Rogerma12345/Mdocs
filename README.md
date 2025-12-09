@@ -60,10 +60,6 @@ Mdocs/
 - **明暗主题切换**
 - 还有更多功能请查看 `zensical.toml` 文件中的 `features` 列表。
 
-## 贡献
-
-欢迎为此项目做出贡献。如果您发现任何问题或有改进建议，请随时提出 issue 或 pull request。
-
 ## 版权
 
-Copyright &copy; 2025 The authors
+Copyright &copy; 2025 Rogerma
