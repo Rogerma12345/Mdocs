@@ -1,13 +1,6 @@
 # Mdocs 项目
 
-这是一个使用 [Zensical](https://zensical.org/) 生成的文档项目。
-
-## 简介
-
-该项目包含一个简单的文档网站，旨在展示 Zensical 的功能。
-
-- **网站名称:** Documentation
-- **网站描述:** 一个由默认模板项目生成的新项目。
+这是一个使用 [Zensical](https://zensical.org/) 生成的网站。
 
 ## 快速开始
 
